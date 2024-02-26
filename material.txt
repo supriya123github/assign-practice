@@ -1,0 +1,4 @@
+Laptop
+mobile
+macbook
+tablet
